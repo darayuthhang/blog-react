@@ -8,11 +8,9 @@ const Section = () =>{
         <div class="dtc v-mid tc white ph3 ph4-l">
           <h1 class="f6 f2-m f-subheadline-l fw6 tc">Hello Hire ME !</h1>
           <p className="f-subheadline-l f2-m fw6">
-            Check Out My Projects in React
+            Check Out My Projects in React:
           </p>
-          <p className="f-subheadline-l f2-m fw6">
-            Contact: Darayuthhang12@gmail.com
-          </p>
+          
         </div>
       </section>
     );
