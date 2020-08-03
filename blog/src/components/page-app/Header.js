@@ -6,7 +6,7 @@ import './page.css';
 
 const Header = () => {
     return (
-        <div className="container">
+        <div className="container f2-m fw6 white" >
           <h1> Technology Lover</h1>
           <div class="row">
             <div class="col-sm">

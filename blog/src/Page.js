@@ -5,6 +5,7 @@ import Home from "./container/home/Home";
 import Project from "./container/project/Project";
 import DogFriend from "./container/project/DogFriend";
 import { HashRouter } from "react-router-dom";
+import CountDownTimer from "./container/project/CountDownTimer";
 
 //Hold all the template
 /*****
@@ -17,14 +18,17 @@ route : project/anyapps
 const Page = () => {
     return (
       <HashRouter basename="/">
+       
         <div>
           <Route exact path="/">
             <Home />
           </Route>
           <Route exact path="/projects" component={Project} />
           <Route exact path="/projects/dogfriends" component={DogFriend} />
-          <Route exact path="/projects/countdowntimer" />
+          <Route exact path="/projects/countdowntimer" component={CountDownTimer}/>
         </div>
+
+        
       </HashRouter>
     );
 }
