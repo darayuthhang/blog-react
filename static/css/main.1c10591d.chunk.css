@@ -1,0 +1,2 @@
+.img{width:300px;height:400px}.dog{color:#000}body{margin:0;padding:0;font-family:sans-serif;background:linear-gradient(270deg,#071b52 0,teal)}.color_red{color:red}.blinking{-webkit-animation:blinkingText 1.2s infinite;animation:blinkingText 1.2s infinite}@-webkit-keyframes blinkingText{0%{color:red}49%{color:red}60%{color:transparent}99%{color:transparent}to{color:#000}}@keyframes blinkingText{0%{color:red}49%{color:red}60%{color:transparent}99%{color:transparent}to{color:#000}}.size{width:200;height:200}
+/*# sourceMappingURL=main.1c10591d.chunk.css.map */

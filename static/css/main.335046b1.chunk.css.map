@@ -1,1 +1,0 @@
-{"version":3,"sources":["project.css","style.css"],"names":[],"mappings":"AAAA,KACI,WAAY,CACZ,YACJ,CAGA,KACI,UACJ,CCRA,MACI,SAAU,CACV,UACJ","file":"main.335046b1.chunk.css","sourcesContent":[".img{\n    width: 300px;\n    height: 400px;\n}\n\n\n.dog{\n    color: black;\n}",".size{\n    width: 200;\n    height: 200;\n}"]}
